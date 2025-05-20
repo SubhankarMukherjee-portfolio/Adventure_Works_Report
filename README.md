@@ -2,9 +2,6 @@
 ## Description of the project
 This Power BI project analyzes the AdventureWorks sales dataset to provide interactive dashboards for executive decision-making. It integrates data from multiple sources, including customer, product, calendar, and sales tables. The dashboards highlight key performance metrics such as revenue, profit, order volume, and return rate. Visualizations include maps, decomposition trees, and key influencers for advanced analytics. The solution empowers users to explore product, customer, and regional trends dynamically.
 
-## Dataset used
-Dataset =
-
 ## Objectives of the project
 1) To track and visualize overall business performance through KPIs like revenue, profit, and returns.
 2) To identify top-performing products, categories, and regions.
