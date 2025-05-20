@@ -34,6 +34,16 @@ Dataset =
 Power BI File =
 
 
+![image](https://github.com/user-attachments/assets/ea7fb7e4-d040-4171-8a54-27c978cf2f37)
+![image](https://github.com/user-attachments/assets/b36e757e-017e-482f-aa35-b0a20cc84d9e)
+![image](https://github.com/user-attachments/assets/cb44f840-f6bc-4a37-85b8-b2e496bfda30)
+![image](https://github.com/user-attachments/assets/9ef96619-9627-444a-8c76-120897f82db4)
+![image](https://github.com/user-attachments/assets/146d4d0d-2973-4b4b-800b-07b1122362b2)
+![image](https://github.com/user-attachments/assets/b5677164-5bac-4098-b496-1af732951814)
+![image](https://github.com/user-attachments/assets/f3a4ed75-5b33-4d67-812e-2fe3d33d1337)
+
+
+
 ## Final Observations & Storyline
 In this Power BI project, I developed an interactive dashboard using the AdventureWorks dataset to provide a comprehensive view of sales performance, customer insights, and product trends. The executive dashboard offers a high-level overview, showcasing key KPIs such as total revenue ($24.9M), profit ($10.5M), orders (25.2K), and return rate (2.2%), with a clear trend of increasing revenue over time. A deeper dive reveals that the United States leads in orders (8,700), and products like the Water Bottle – 30 oz. perform exceptionally well with 404 orders and a 230% profit increase over the past year. Through visualizations such as decomposition trees, I identified that "Tires and Tubes" is the most ordered product type, while "Shorts" are most frequently returned. Customer analysis shows 10.5K unique customers, with high-value customers like Mr. Jordan Turner driving revenue. Additionally, the Key Influencers visual helped uncover that marital status and product cost significantly affect customer behavior and pricing strategy. This dashboard empowers stakeholders to monitor business health, understand customer segments, and make informed decisions backed by data-driven insights.
 
